@@ -9,7 +9,7 @@ A statistical analysis of the relationship between surface observations and Snow
 **Hypothesis Testing on SLR Characteristics**:
 - Snow accumulation is more efficient (higher SLR) at lower temperatures and less efficient (lower SLR) at higher temperatures.
 - Larger precipitation amounts reduce SLR due to compaction effects from snow weight.
-- When snow falls on an already snow-covered surface, additional compaction reduces the efficiency of snow accumulation (lower SLR).
+- When snow falls on an already snow-covered surface, additional compaction reduces the efficiency of snow accumulation (lower SLR).  
 → All hypotheses were statistically significant (p-value tests).
 
 **Notebook Link**:   
