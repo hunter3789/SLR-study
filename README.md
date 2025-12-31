@@ -22,6 +22,7 @@ https://colab.research.google.com/github/hunter3789/SLR-study/blob/main/SLR-stud
 - Linear regression was used to test statistical significance of predictors.
 - Wet-bulb temperature, SWE (Snow Water Equivalent), and snow depth were all statistically significant (p < 0.001).
 - Wet-bulb temperature was used as a representative variable to avoid multicollinearity.
+- (discussion) Heteroskedasticity in the SLR regression is observed when SWE or existing snow depth are near zero.
 
 **Regional (Mechanism-Based) Differences in SLR**
 1. West Coast Snowfall
