@@ -1,4 +1,4 @@
-# SLR study
+# Snow-to-Liquid Ratio study
 A statistical analysis of the relationship between surface observations and Snow-to-Liquid Ratio  
 
 **Notebook Link**:   
