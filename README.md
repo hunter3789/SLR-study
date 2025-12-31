@@ -6,7 +6,7 @@ A statistical analysis of the relationship between surface observations and Snow
 - SLR varies depending on snow particle characteristics and compaction effects and is highly sensitive to subtle atmospheric conditions such as temperature changes, making it difficult to characterize accurately.
 - Using snowfall observations from laser snow depth sensors (introduced by KMA in 2014; currently 643 sites), this study analyzes (1) the relationship between surface meteorological variables and SLR, and (2) regional differences in SLR characteristics.
 
-**Hypothesis Testing on SLR Characteristics**:
+**Hypothesis Testing on SLR Characteristics**:  
 ![scatter_plot](SLR_scatter_plot)
 - Snow accumulation is more efficient (higher SLR) at lower temperatures and less efficient (lower SLR) at higher temperatures.
 - Larger precipitation amounts reduce SLR due to compaction effects from snow weight.
