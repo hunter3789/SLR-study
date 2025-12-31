@@ -1,6 +1,9 @@
 # Snow-to-Liquid Ratio study
 A statistical analysis of the relationship between surface observations and Snow-to-Liquid Ratio  
 
+**Notebook Link**:   
+https://colab.research.google.com/github/hunter3789/SLR-study/blob/main/SLR-study.ipynb
+
 **Intro**:  
 - Accurate winter snowfall forecasting requires not only precise precipitation prediction but also consideration of the Snow-to-Liquid Ratio (SLR), which determines how much snowfall accumulates from a given amount of liquid precipitation.
 - SLR varies depending on snow particle characteristics and compaction effects and is highly sensitive to subtle atmospheric conditions such as temperature changes, making it difficult to characterize accurately.
@@ -20,5 +23,4 @@ A statistical analysis of the relationship between surface observations and Snow
 - Wet-bulb temperature, SWE (Snow Water Equivalent), and snow depth were all statistically significant (p < 0.001).
 - Wet-bulb temperature was used as a representative variable to avoid multicollinearity.
 
-**Notebook Link**:   
-https://colab.research.google.com/github/hunter3789/SLR-study/blob/main/SLR-study.ipynb
+**Regional (Mechanism-Based) Differences in SLR**
