@@ -24,3 +24,14 @@ https://colab.research.google.com/github/hunter3789/SLR-study/blob/main/SLR-stud
 - Wet-bulb temperature was used as a representative variable to avoid multicollinearity.
 
 **Regional (Mechanism-Based) Differences in SLR**
+1. West Coast Snowfall
+- Caused by cold continental air interacting with relatively warm Yellow Sea waters
+- Generally associated with low temperatures
+
+2. Warm Advection / Trough Type (Regions: Seoul metropolitan area)
+- Occurs when warm air overrides cold air
+- Often near the rain–snow temperature threshold
+
+3. Easterly Flow Snowfall (East Coast Type)
+- Driven by easterly winds associated with high pressure over northeastern China
+- Higher temperatures due to warm sea surface temperatures
