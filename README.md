@@ -37,7 +37,7 @@ https://colab.research.google.com/github/hunter3789/SLR-study/blob/main/SLR-stud
 - Higher temperatures due to warm sea surface temperatures
 
 **Statistical test for regional effect - Linear Mixed Model**
-
+![chi_test](SLR_chi_test.png)
 - Assuming common effects of wet-bulb temperature and SWE across regions with regional random effects
 - A chi-square test using parametric bootstrapping (n = 1,000) showed that adding regional random effects improves model fitting statistically.
 - However, (1) the SLR difference is small (approximately 1–2), and (2) random-effect variance is much smaller than mean squared error.  
