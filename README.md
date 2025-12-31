@@ -1,4 +1,4 @@
-# A Vision-Language Model interpreting Skew-T
+# SLR study
 A statistical analysis of the relationship between surface observations and Snow-to-Liquid Ratio  
 
 **Notebook Link**:   
