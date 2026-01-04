@@ -18,10 +18,10 @@ https://colab.research.google.com/github/hunter3789/SLR-study/blob/main/SLR-stud
 - Wet-bulb temperature had a slightly higher correlation with SLR than air temperature.
 
 **Statistical Significance – Linear Regression Model**
-![regression](SLR_regression.png)
+![regression](SLR_regression.png)  
 $$
 \mathrm{SLR}_i = \beta_0 + \beta_1 T_{W,i} + \beta_2 \mathrm{SWE}_i + \beta_3 \mathrm{SD}_i + \varepsilon_i
-$$
+$$  
 - Linear regression was used to test statistical significance of predictors.
 - Wet-bulb temperature, SWE (Snow Water Equivalent), and snow depth were all statistically significant (p < 0.001).
 - Wet-bulb temperature was used as a representative variable to avoid multicollinearity.
