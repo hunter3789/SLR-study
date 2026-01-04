@@ -17,11 +17,10 @@ https://colab.research.google.com/github/hunter3789/SLR-study/blob/main/SLR-stud
 - Wind speed showed no significant correlation with SLR, while some previous studies (Ware et al., 2006) suggest wind may reduce SLR via snow crystal fracturing.
 - Wet-bulb temperature had a slightly higher correlation with SLR than air temperature.
 
-**Statistical Significance – Linear Regression Model**
+**Statistical Significance – Linear Regression Model**  
+  
+![SLR model](https://latex.codecogs.com/svg.image?\widehat{\mathrm{SLR}}=\beta_0+\beta_{1}T_{W}+\beta_2\mathrm{SWE}+\beta_3\mathrm{SD})  
 ![regression](SLR_regression.png)  
-$$
-\mathrm{SLR}_i = \beta_0 + \beta_1 T_{W,i} + \beta_2 \mathrm{SWE}_i + \beta_3 \mathrm{SD}_i + \varepsilon_i
-$$  
 - Linear regression was used to test statistical significance of predictors.
 - Wet-bulb temperature, SWE (Snow Water Equivalent), and snow depth were all statistically significant (p < 0.001).
 - Wet-bulb temperature was used as a representative variable to avoid multicollinearity.
@@ -40,7 +39,9 @@ $$
 - Driven by easterly winds associated with high pressure over northeastern China
 - Higher temperatures due to warm sea surface temperatures
 
-**Statistical test for regional effects - Linear Mixed Model**
+**Statistical test for regional effects - Linear Mixed Model**  
+
+![mixed model](https://latex.codecogs.com/svg.image?\widehat{\mathrm{SLR}}=\beta_0+\beta_{1}T_{W}+\beta_2\mathrm{SWE}+\beta_3\mathrm{SD}+\mathrm{Random_{}Effect})  
 ![chi_test](SLR_chi_test.png)
 - Assuming common effects of wet-bulb temperature and SWE across regions with regional random effects
 - A chi-square test using parametric bootstrapping (n = 1,000) showed that adding regional random effects improves model fitting statistically.
